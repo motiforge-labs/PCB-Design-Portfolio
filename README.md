@@ -16,7 +16,7 @@ Each project folder contains:
 
 ## 🌈 RGB Mood Light PCB
 
-![RGB Mood Light](RGB_Mood_Light_V1/RGB_Mood_Light_PCB_Images/04_3D_Top.png)
+![RGB Mood Light](RGB_Mood_Light_V1/RGB_Mood_Light_PCB%20Images/04_3D_Top.png)
 ## 🌤 ESP32 OLED Weather Display PCB
 
 ![Weather Display](ESP32_OLED_Weather_Display/04_3D_Front.png)
