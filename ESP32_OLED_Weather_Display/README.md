@@ -12,4 +12,6 @@ A compact environmental monitoring and system display PCB built around the Ardui
 - ERC: 0 Errors, 0 Warnings
 - DRC: 0 Errors, 0 Warnings
 
-![ESP32 OLED Weather Display](ESP32_OLED_Weather_Display/ESP32_OLED_Weather_Display-Images/04_3D_Front.png)
+## 🌤 ESP32 OLED Weather Display PCB
+
+![Weather Display](ESP32_OLED_Weather_Display-Images/04_3D_Front.png)
