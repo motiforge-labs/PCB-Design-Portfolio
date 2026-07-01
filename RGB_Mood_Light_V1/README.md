@@ -11,4 +11,6 @@ A compact RGB mood lighting PCB built around the Arduino Nano ESP32. The board d
 - ERC: 0 Errors, 0 Warnings
 - DRC: 0 Errors, 0 Warnings
 
+## 🌈 RGB Mood Light PCB
+
 ![RGB Mood Light](RGB_Mood_Light_V1/RGB_Mood_Light_PCB%20Images/04_3D_Top.png)
