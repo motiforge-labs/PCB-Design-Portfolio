@@ -7,6 +7,7 @@ A collection of custom PCB projects designed in KiCad.
 * 🌈 RGB Mood Light PCB
 * 🌤 ESP32 OLED Weather / System Display PCB
 * ⌨️ ESP32 Macro Pad Pro PCB
+
 Each project folder contains:
 
 * KiCad source files
