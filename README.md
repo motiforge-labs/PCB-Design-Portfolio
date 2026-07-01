@@ -20,3 +20,7 @@ Each project folder contains:
 ## 🌤 ESP32 OLED Weather Display PCB
 
 ![Weather Display](ESP32_OLED_Weather_Display/ESP32_OLED_Weather_Display-Images/04_3D_Front.png)
+
+## ⌨️ ESP32 Macro Pad Pro PCB
+
+![ESP32 Macro Pad Pro](ESP32_MacroPad_Pro/ESP32_MacroPad_Pro_Images/04_3D_Top.png)
