@@ -12,4 +12,6 @@ A compact 6-key programmable macro pad built around the Arduino Nano ESP32. The 
 - ERC: 0 Errors, 0 Warnings
 - DRC: 0 Errors, 0 Warnings
 
+## ⌨️ ESP32 Macro Pad Pro PCB
+
 ![ESP32 Macro Pad Pro](ESP32_MacroPad_Pro/ESP32_MacroPad_Pro%20Images/04_3D_Top.png)
